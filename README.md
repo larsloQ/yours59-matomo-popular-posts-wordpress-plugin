@@ -16,6 +16,9 @@ Its not made for typical WordPress end-user, so no simple click-install.
 Clone or download, move to wp-content-plugins and 
 *- important -* read the code and adjust it to your needs.
 
+## Screenshot 
+![screenshot of a wordpress dashboard](dashboard-most-read-stats.png "Dashboard widgets screenshow")
+
 ## Tags: 
 #wordpress, #matomo, #plugin, #developer-plugin, #most-read, #popular-posts
 #CMB2
