@@ -1,0 +1,8 @@
+/node_modules/
+.directory
+.idea
+/stats.json
+mockdata.json
+yours59_matomo_popular_posts_frontend.js
+yours59_matomo_popular_posts.min.js
+package-lock.json
